@@ -20,6 +20,8 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
 
     ```bash
     npm install
+    
+    change
     ```
 
 1. Start project: 
